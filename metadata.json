@@ -1,0 +1,5 @@
+{
+  "name": "Zhanzhanlish 单词记忆",
+  "description": "专为南昌初中生打造的英语单词记忆小程序，包含每日练习、词汇学习和错题巩固功能。",
+  "requestFramePermissions": ["microphone"]
+}
